@@ -3,9 +3,9 @@
 // @description Always show the full tracklisting on Boomkat album pages.
 // @namespace   https://github.com/matthewmcvickar/userscripts
 // @match       https://boomkat.com/*
-// @grant       none
+// @author      matthewmcvickar
 // @version     1.0
-// @author      -
+// @grant       none
 // ==/UserScript==
 
 (function() {
