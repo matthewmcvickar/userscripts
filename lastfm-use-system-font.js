@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name        Last.fm: Use System Font
-// @namespace   matthewmcvickar
-// @homepage    https://github.com/matthewmcvickar/userscripts/lastfm-use-system-font.js
+// @namespace   https://github.com/matthewmcvickar/userscripts
 // @match       https://www.last.fm/*
 // @grant       none
 // @version     1.0
