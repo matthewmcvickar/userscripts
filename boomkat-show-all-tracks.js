@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Boomkat: Always Show All Tracks
-// @match       https://boomkat.com/*
+// @description Always show the full tracklisting on Boomkat album pages.
 // @namespace   https://github.com/matthewmcvickar/userscripts
+// @match       https://boomkat.com/*
 // @grant       none
 // @version     1.0
 // @author      -
-// @description 3/14/2023, 7:00:28 PM
 // ==/UserScript==
 
 (function() {
