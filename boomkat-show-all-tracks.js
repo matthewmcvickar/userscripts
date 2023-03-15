@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name        Boomkat: Always Show All Tracks
-// @namespace   matthewmcvickar
 // @match       https://boomkat.com/*
 // @namespace   https://github.com/matthewmcvickar/userscripts
 // @grant       none
