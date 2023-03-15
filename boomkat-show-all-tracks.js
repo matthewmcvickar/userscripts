@@ -2,7 +2,7 @@
 // @name        Boomkat: Always Show All Tracks
 // @namespace   matthewmcvickar
 // @match       https://boomkat.com/*
-// @homepage    https://github.com/matthewmcvickar/userscripts/boomkat-show-all-tracks.js
+// @namespace   https://github.com/matthewmcvickar/userscripts
 // @grant       none
 // @version     1.0
 // @author      -
