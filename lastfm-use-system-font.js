@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Last.fm: Use System Font
+// @description Use system font instead of Last.fm's font that is hard to read.
 // @namespace   https://github.com/matthewmcvickar/userscripts
 // @match       https://www.last.fm/*
-// @grant       none
+// @author      matthewmcvickar
 // @version     1.0
-// @author      -
-// @description 3/5/2023, 6:23:21 PM
+// @grant       none
 // ==/UserScript==
 
 (function() {
